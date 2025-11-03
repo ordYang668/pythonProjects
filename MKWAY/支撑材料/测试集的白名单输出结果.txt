@@ -1,0 +1,34 @@
+Process rule: /usr/lib/systemd/*, File rule: /*
+Process rule: /usr/libexec/*, File rule: /*
+Process rule: /usr/bin/*, File rule: /*
+Process rule: /usr/sbin/*, File rule: /*
+Process rule: /usr/bin/*, File rule: /usr/lib/parallels-tools/lib/*
+Process rule: /usr/libexec/*, File rule: /usr/lib/locale/*
+Process rule: /usr/bin/*, File rule: /usr/lib/locale/*
+Process rule: /usr/sbin/*, File rule: /usr/lib/locale/*
+Process rule: /usr/libexec/*, File rule: /*
+Process rule: /usr/bin/*, File rule: /*
+Process rule: /usr/sbin/*, File rule: /*
+Process rule: /usr/bin/*, File rule: /usr/lib/parallels-tools/lib/*
+Process rule: /usr/bin/*, File rule: /usr/lib/parallels-tools/lib/*
+Process rule: /usr/bin/*, File rule: /root/.cups/*
+Process rule: /usr/lib/systemd/*, File rule: ./*
+Process rule: /usr/lib/systemd/*, File rule: /*
+Process rule: /usr/lib/systemd/*, File rule: dm/*
+Process rule: /usr/libexec/*, File rule: ./*
+Process rule: /usr/libexec/*, File rule: /*
+Process rule: /usr/libexec/*, File rule: dm/*
+Process rule: /usr/bin/*, File rule: ./*
+Process rule: /usr/bin/*, File rule: /*
+Process rule: /usr/bin/*, File rule: dm/*
+Process rule: /usr/sbin/*, File rule: ./*
+Process rule: /usr/sbin/*, File rule: /*
+Process rule: /usr/sbin/*, File rule: dm/*
+Process rule: /usr/libexec/*, File rule: /usr/lib/locale/C.UTF-8/*
+Process rule: /usr/bin/*, File rule: /usr/lib/locale/C.UTF-8/*
+Process rule: /usr/sbin/*, File rule: /usr/lib/locale/C.UTF-8/*
+Process rule: /usr/bin/*, File rule: /usr/lib/parallels-tools/lib/atomics/*
+Process rule: /usr/bin/*, File rule: /usr/lib/parallels-tools/lib/tls/*
+Coverage: 99.87%
+Error: 0.13%
+Matches: 47199 of 47260
